@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue May 17 17:09:41 BRT 2016
+org.eclipse.jst.jee.server\:casadocodigo=C\:\\apache-tomcat-8.0.33\\wtpwebapps\\casadocodigo
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Usuario\\.m2\\repository\\org\\springframework\\spring-web\\4.1.0.RELEASE\\spring-web-4.1.0.RELEASE.jar=C\:\\apache-tomcat-8.0.33\\wtpwebapps\\casadocodigo\\WEB-INF\\lib\\spring-web-4.1.0.RELEASE.jar
